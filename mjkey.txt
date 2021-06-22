@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 73987, type 6.
+
+Issued to Fritz Kreuz <7221d8e2617d525e@mytum.de>.
+
+Expires August 20, 2021.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_9fR06M85c600690b00eei1c90004cf41f713_df33282
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+76c89e59b002f31a4e372e5a4e186ce5e66f530e6b5cbe493f3bbd4e87fbf042
+58c0de1d1194e60615ce5fca284d66bd4fc6d38e88f8b693a3e7e1f0b42ac7f6
+ddaa19f8d82875fe3594c6f3f6291a01312de05ec8dbcaf5acc45cc456a8cbbf
+28b08e8293895b2a74e7364d2e5a4baa9da786ec913c558dc1042df3b398dde8
+21202b786bf8066f54b8a199611313b2e09f08387c9129d841a3f09c304742d1
+80b1ba820fd5291dee7c23f711ca14e04ba6731ca6adca03e76a00e28e658ad5
+71c6b903cedee3fa0936d6280376441f5a72f7cba946be9c6c57d4ab5c8e0a38
+6df73f2352ed33cb0928e2c72c84bb6f96a6a69378401d4c80380ba162917dad
